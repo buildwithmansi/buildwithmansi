@@ -31,8 +31,8 @@ Welcome to my digital workshop! I'm passionate about building sleek, scalable, a
 ### 🤝 Let's Collaborate
 I'm open to freelance projects, remote roles, and tech collaborations.
 
-> 💌 `buildwithmansi@gmail.com`  
-> 🌐 [LinkedIn](https://linkedin.com/in/buildwithmansi) | [Portfolio](https://buildwithmansi.github.io) | [GitHub](https://github.com/buildwithmansi)
+> 💌 `manshik923@gmail.com`  
+> 🌐 [LinkedIn](https://www.linkedin.com/in/mansikumari7) | [Portfolio](https://buildwithmansi.github.io) | [GitHub](https://github.com/buildwithmansi)
 
 ---
 
